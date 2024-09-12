@@ -1,0 +1,11 @@
+input   { 
+    display:flex;
+    width: 100px;
+    height: 50px;
+    margin-right: auto;
+    margin-left: auto;
+   background-color: rgb(146, 89, 24);
+   color: antiquewhite;
+
+
+}
